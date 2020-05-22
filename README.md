@@ -12,8 +12,14 @@
 
 [React Native](https://reactnative.dev/)
 
-## Java
+[Angular](https://angular.io/)
+
+## Java & Kotlin
 
 [Spring](https://spring.io/)
 
 [Vert.x](https://vertx.io/)
+
+[Kotlin](https://kotlinlang.org/)
+
+[Java Tutorials](https://howtodoinjava.com/)
