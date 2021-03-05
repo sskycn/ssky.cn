@@ -18,15 +18,29 @@
 
 [Angular](https://angular.io/)
 
-## Java & Kotlin
+## Java
 
-[Spring](https://spring.io/)
+[Java Tutorials](https://howtodoinjava.com/)
 
-[Vert.x](https://vertx.io/)
+## Kotlin
 
 [Kotlin](https://kotlinlang.org/)
 
-[Java Tutorials](https://howtodoinjava.com/)
+## Spring
+
+[Spring](https://spring.io/)
+
+## Vertx
+
+[Vert.x](https://vertx.io/)
+
+## Android
+
+[Developer](https://developer.android.com/)
+
+## UI
+
+[Material](https://material.io/)
 
 ## Codelabs
 
