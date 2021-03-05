@@ -40,6 +40,8 @@
 
 [Android Kotlin Fundamentals Course](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
 
+[Android Room with a View - Kotlin](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#5)
+
 ## UI
 
 [Material](https://material.io/)
