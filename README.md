@@ -38,14 +38,18 @@
 
 [Developer](https://developer.android.com/)
 
+[Android Kotlin Fundamentals Course](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
+
 ## UI
 
 [Material](https://material.io/)
 
+[Components](https://material.io/components?platform=android)
+
+[Icons](https://material.io/resources/icons/?style=baseline)
+
 ## Codelabs
 
 [Code Labs](https://codelabs.developers.google.com/)
-
-[Android Kotlin Fundamentals Course](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
 
 ## Doc
