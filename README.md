@@ -42,6 +42,12 @@
 
 [Android Room with a View - Kotlin](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#5)
 
+## iOS
+
+[Swift](https://developer.apple.com/swift/)
+
+[CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
+
 ## UI
 
 [Material](https://material.io/)
