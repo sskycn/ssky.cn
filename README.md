@@ -26,6 +26,18 @@
 
 [Kotlin](https://kotlinlang.org/)
 
+## Go
+
+[Go](https://golang.org/)
+
+[Tour](https://tour.golang.org/welcome/1)
+
+[Protocol Buffers](https://developers.google.com/protocol-buffers/)
+
+[Avro](https://avro.apache.org/)
+
+[thrift](https://thrift.apache.org/)
+
 ## Spring
 
 [Spring](https://spring.io/)
