@@ -1,4 +1,4 @@
-# ssky.cn - ours student sky.
+# ssky.cn - ssky.
 
 ## Javascript
 
@@ -52,7 +52,9 @@
 
 [Android Kotlin Fundamentals Course](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
 
-[Android Room with a View - Kotlin](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#5)
+[Jetpack Navigation](https://developer.android.com/codelabs/android-navigation)
+
+[Android Room with a View - Kotlin](https://developer.android.com/codelabs/android-room-with-a-view-kotlin)
 
 ## iOS
 
