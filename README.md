@@ -6,15 +6,7 @@
 
 [React](https://reactjs.org/)
 
-[Redux](https://redux.js.org/)
-
-[React Redux](https://react-redux.js.org/)
-
-[Redux Toolkit](https://redux-toolkit.js.org/)
-
 [React Native](https://reactnative.dev/)
-
-[React Navigation](https://reactnavigation.org/)
 
 [Angular](https://angular.io/)
 
